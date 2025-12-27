@@ -1,108 +1,152 @@
-<h1 align="center">Hey, I am Rohit Rana😎</h1>
+<h1 align="center">Hey, I am Rohit Rana 😎</h1>
 
-###
+<br />
 
 <h3 align="center">Developer | Learning, Building, Improving Every Day</h3>
 
-###
+<br />
+<br />
 
-<img align="right" height="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<!-- HERO GIF -->
+<div align="center">
+  <img
+    height="450"
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  />
+</div>
 
-###
+<br />
+<br />
 
-<br clear="both">
+<!-- CURRENTLY -->
+<h4 align="left">
+  CURRENTLY<br />
+  → Learning backend patterns and system design<br />
+  → Building small projects to understand things better<br />
+  → Exploring FastAPI, React, and data tools
+</h4>
 
-<h4 align="left">CURRENTLY<br>--> Learning backend patterns and system design<br>-->  Building small projects to understand things better<br>--> Exploring FastAPI, React, and data tools</h4>
+<br />
+<br />
 
-###
-
+<!-- TOOLS -->
 <h3 align="center">TOOLS</h3>
 
-###
+<br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
-###
+<br />
+<br />
 
+<!-- ACTIVITY -->
 <h3 align="center">ACTIVITY</h3>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rana-rohit&radius=16&theme=react&area=true&order=5" height="600" alt="activity-graph graph"  />
+  <img
+    height="300"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rana-rohit&radius=16&theme=react&area=true&order=5"
+  />
 </div>
 
-###
+<br />
+<br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/rana-rohit/rana-rohit/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
-###
+<br />
+<br />
 
-<br clear="both">
-
+<!-- SOCIALS -->
 <h3 align="center">SOCIALS</h3>
 
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rohit-rana31?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rohit-rana31" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+    />
   </a>
+  <img width="20" />
   <a href="https://www.instagram.com/rohit.rana.03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="52"
+      height="40"
+    />
   </a>
 </div>
 
-###
+<br />
+<br />
 
-<br clear="both">
+<!-- ALSO -->
+<h4 align="left">
+  ALSO<br />
+  → Enjoys clean UI<br />
+  → Likes systems that make sense<br />
+  → Probably tweaking this README again 👻
+</h4>
 
-<h4 align="left">ALSO<br>--> Enjoys clean UI<br>--> Like systems that make sense<br>--> Probably tweaking this README again👻</h4>
+<br />
+<br />
 
-###
-
+<!-- FOOTER IMAGE -->
 <div align="center">
-  <img height="350" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY4NTQwNDYsIm5iZiI6MTc2Njg1Mzc0NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI3VDE2NDIyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MDViMTc5YzE1NWIzNzA3MmMyMDdjNDlhMDRjNjAxZGQ4MWM3ZmZiMWQ3ODg3MmI2MTRmNGVlYmQ0MzJjNDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.07cOs87GcAPdHP9dhKGPVZy-wrzdTeesGUk7Rih2zx8"  />
+  <img
+    height="300"
+    src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"
+  />
 </div>
 
-###
+<br />
+<br />
 
-<h1 align="center">Always Building......... Always learning........ Always Improving.</h1>
-
-###
+<h3 align="center">One commit at a time.</h3>
