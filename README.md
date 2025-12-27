@@ -2,7 +2,7 @@
 
 <br />
 
-<h2 align="center">Developer | Learning, Building, Improving Every Day</h2>
+<h3 align="center">Developer | Learning, Building, Improving Every Day</h3>
 
 <br />
 <br />
