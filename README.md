@@ -19,12 +19,12 @@
 <br />
 
 <!-- CURRENTLY -->
-<h4 align="left">
+<h1 align="left">
   CURRENTLY<br />
   → Learning backend patterns and system design<br />
   → Building small projects to understand things better<br />
   → Exploring FastAPI, React, and data tools
-</h4>
+</h1>
 
 <br />
 <br />
