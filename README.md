@@ -1,12 +1,3 @@
-<h1 align="center">Hey, I am Rohit Rana 😎</h1>
-
-<br />
-
-<h3 align="center">Developer | Learning, Building, Improving Every Day</h3>
-
-<br />
-<br />
-
 <!-- HERO GIF -->
 <div align="center">
   <img
@@ -18,12 +9,21 @@
 <br />
 <br />
 
+<h1 align="center">Hey, I am Rohit Rana 😎</h1>
+
+<br />
+
+<h3 align="center">Developer | Learning, Building, Improving Every Day</h3>
+
+<br />
+<br />
+
 <!-- CURRENTLY -->
 <h4 align="left">
   CURRENTLY<br />
-  → Learning backend patterns and system design<br />
+  → Learning Deep Learning algorithms and xAI<br />
   → Building small projects to understand things better<br />
-  → Exploring FastAPI, React, and data tools
+  → Exploring FastAPI, React, and DL tools
 </h4>
 
 <br />
