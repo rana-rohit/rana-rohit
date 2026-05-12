@@ -135,4 +135,4 @@
 
 <h1 align="center">Always Building..... Always Learning..... Always Improving</h1>
 
-![](https://komarev.com/ghpvc/?username=rana-rohit&color=blue)
+![](https://komarev.com/ghpvc/?username=rana-rohit&label=PROFILE+VIEWS&color=0e75b6&style=flat)
