@@ -98,7 +98,7 @@
     />
   </a>
   <img width="20" />
-  <a href="https://www.instagram.com/rohit.rana.03" target="_blank">
+  <a href="https://www.instagram.com/rohit.rana.in" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
       width="52"
